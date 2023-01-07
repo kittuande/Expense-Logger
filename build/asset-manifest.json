@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/.github.io/Expense-Logger/static/css/main.c49f64a5.css",
+    "main.js": "/.github.io/Expense-Logger/static/js/main.1d680bbf.js",
+    "index.html": "/.github.io/Expense-Logger/index.html",
+    "main.c49f64a5.css.map": "/.github.io/Expense-Logger/static/css/main.c49f64a5.css.map",
+    "main.1d680bbf.js.map": "/.github.io/Expense-Logger/static/js/main.1d680bbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49f64a5.css",
+    "static/js/main.1d680bbf.js"
+  ]
+}
